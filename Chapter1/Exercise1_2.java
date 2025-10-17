@@ -1,4 +1,4 @@
-package problems.chapter1;
+package Chapter1;
 
 public class Exercise1_2 {
     public static void main(String[] args) {
@@ -7,5 +7,5 @@ public class Exercise1_2 {
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Java");
-    }
+      }
 }
