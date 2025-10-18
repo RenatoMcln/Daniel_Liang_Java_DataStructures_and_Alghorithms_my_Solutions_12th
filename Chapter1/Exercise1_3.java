@@ -2,7 +2,7 @@ package Chapter1;
 
 public class Exercise1_3 {
     /**
-     * This method displays 4 lines whose together bild the word "JAVA"
+     * This method displays 4 lines which together bild the word "JAVA"
      * @param args
      */
     public static void main(String[] args) {
